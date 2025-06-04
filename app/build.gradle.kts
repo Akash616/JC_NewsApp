@@ -6,7 +6,6 @@ plugins {
     id("kotlin-parcelize") //The kotlin-parcelize plugin provides a Parcelable implementation generator.
     id("com.google.devtools.ksp")
     id("com.google.dagger.hilt.android")
-    //id("androidx.room")
 
 }
 
